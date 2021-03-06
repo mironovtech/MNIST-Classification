@@ -1,4 +1,4 @@
-# MNIST-Classification
+# MNIST Classification with TensorFlow2.0
 
 Deep Neural Network for MNIST Classification using TensorFlow 2.0
 
